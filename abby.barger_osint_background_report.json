@@ -1,0 +1,150 @@
+{
+  "subject_info": {
+    "full_name": "Abby Barger",
+    "username": "abby.barger",
+    "birthday": null,
+    "phone": null,
+    "hometown": null,
+    "email": null,
+    "investigation_date": "2025-10-01T03:08:24.391436"
+  },
+  "investigation_summary": {
+    "total_platforms_checked": 10,
+    "profiles_found": 6,
+    "data_points_collected": 0,
+    "confidence_score": 30,
+    "investigation_completeness": 60
+  },
+  "social_media": {
+    "tiktok": {
+      "found": false,
+      "url": "https://www.tiktok.com/@abby.barger"
+    },
+    "instagram": {
+      "found": true,
+      "url": "https://www.instagram.com/abby.barger/",
+      "profile_data": {
+        "platform": "instagram",
+        "username": "abby.barger",
+        "followers": "1,952",
+        "posts": "45"
+      }
+    },
+    "twitter": {
+      "found": true,
+      "url": "https://twitter.com/abby.barger",
+      "profile_data": {
+        "platform": "twitter",
+        "username": "abby.barger"
+      }
+    },
+    "facebook": {
+      "found": false,
+      "url": "https://www.facebook.com/abby.barger"
+    },
+    "linkedin": {
+      "found": true,
+      "url": "https://www.linkedin.com/in/abby.barger",
+      "profile_data": {
+        "platform": "linkedin",
+        "username": "abby.barger",
+        "page_title": "Sign Up | LinkedIn"
+      }
+    },
+    "reddit": {
+      "found": false,
+      "url": "https://www.reddit.com/user/abby.barger"
+    },
+    "github": {
+      "found": true,
+      "url": "https://github.com/abby.barger",
+      "profile_data": {
+        "platform": "github",
+        "username": "abby.barger"
+      }
+    },
+    "youtube": {
+      "found": false,
+      "url": "https://www.youtube.com/@abby.barger"
+    },
+    "pinterest": {
+      "found": true,
+      "url": "https://www.pinterest.com/abby.barger",
+      "profile_data": {
+        "platform": "pinterest",
+        "username": "abby.barger"
+      }
+    },
+    "snapchat": {
+      "found": true,
+      "url": "https://www.snapchat.com/add/abby.barger",
+      "profile_data": {
+        "platform": "snapchat",
+        "username": "abby.barger"
+      }
+    }
+  },
+  "search_results": {
+    "name": {
+      "google_results": [],
+      "people_search_engines": {
+        "whitepages": {
+          "checked": true,
+          "url": "https://www.whitepages.com/name/Abby-Barger",
+          "potential_results": true
+        },
+        "spokeo": {
+          "checked": true,
+          "url": "https://www.spokeo.com/Abby-Barger",
+          "potential_results": true
+        },
+        "pipl": {
+          "checked": true,
+          "url": "https://pipl.com/search/?q=Abby+Barger",
+          "potential_results": true
+        },
+        "truepeoplesearch": {
+          "checked": true,
+          "url": "https://www.truepeoplesearch.com/results?name=Abby%20Barger",
+          "potential_results": true
+        }
+      },
+      "social_mentions": []
+    }
+  },
+  "people_search": {
+    "whitepages": {
+      "checked": true,
+      "url": "https://www.whitepages.com/name/Abby-Barger",
+      "results_visible": true
+    },
+    "truepeoplesearch": {
+      "checked": true,
+      "url": "https://www.truepeoplesearch.com/results?name=Abby%20Barger"
+    },
+    "fastpeoplesearch": {},
+    "fastbackgroundcheck": {}
+  },
+  "public_records": {},
+  "cross_references": {
+    "platform_overlap": 6,
+    "common_usernames": [
+      "instagram",
+      "twitter",
+      "linkedin",
+      "github",
+      "pinterest",
+      "snapchat"
+    ],
+    "verified_accounts": [],
+    "confidence_level": "HIGH"
+  },
+  "timeline_reconstruction": [],
+  "risk_indicators": {},
+  "confidence_scores": {
+    "username_match": 90,
+    "name_match": 0,
+    "location_match": 0,
+    "overall_confidence": 30
+  }
+}

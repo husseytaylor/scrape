@@ -1,0 +1,86 @@
+{
+  "target": ".wabby",
+  "investigation_time": "2025-10-01T03:03:27.379900",
+  "platforms_investigated": [
+    "tiktok",
+    "instagram",
+    "twitter",
+    "linkedin",
+    "reddit"
+  ],
+  "findings": {
+    "tiktok": {
+      "platform": "tiktok",
+      "profile_found": false,
+      "profile_url": "https://www.tiktok.com/@.wabby",
+      "account_info": {},
+      "videos": [],
+      "engagement_patterns": {},
+      "network_indicators": {}
+    },
+    "instagram": {
+      "platform": "instagram",
+      "profile_found": false,
+      "profile_url": "https://www.instagram.com/.wabby/",
+      "account_info": {},
+      "posts": [],
+      "engagement_patterns": {}
+    },
+    "twitter": {
+      "platform": "twitter",
+      "profile_found": true,
+      "profile_url": "https://twitter.com/.wabby",
+      "account_info": {}
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "profile_found": true,
+      "profile_url": "https://www.linkedin.com/in/.wabby",
+      "account_info": {
+        "username": ".wabby"
+      }
+    },
+    "reddit": {
+      "platform": "reddit",
+      "profile_found": false,
+      "profile_url": "https://www.reddit.com/user/.wabby",
+      "account_info": {}
+    }
+  },
+  "cross_platform_analysis": {
+    "platforms_found": [
+      "linkedin"
+    ],
+    "platform_count": 1,
+    "username_consistency": {
+      "same_username_used": false,
+      "platforms": [
+        "linkedin"
+      ]
+    },
+    "cross_references": {
+      "mentions_found": 0,
+      "top_mentions": {},
+      "connections": 0
+    },
+    "digital_footprint_score": 15
+  },
+  "osint_intelligence": {
+    "account_age_indicators": [],
+    "activity_level": "Unknown",
+    "social_graph_size": 0,
+    "content_themes": [],
+    "behavioral_patterns": [],
+    "geographic_indicators": []
+  },
+  "risk_assessment": {
+    "privacy_risk": "LOW",
+    "exposure_level": "MODERATE",
+    "data_leakage": [],
+    "recommendations": []
+  },
+  "recommendations": [
+    "Verify all findings manually",
+    "Respect privacy laws and platform ToS"
+  ]
+}
