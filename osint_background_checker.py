@@ -900,12 +900,12 @@ def main():
     # Example investigation
     # Change these values for your investigation
     investigation_params = {
-        'full_name': 'Abby Barger',      # Full name
-        'username': 'abby.barger',        # Known username
-        'birthday': None,                  # Birthday (YYYY-MM-DD)
-        'phone': None,                     # Phone number
-        'hometown': None,                  # City, State
-        'email': None                      # Email address
+        'full_name': 'Abigail Lauren Barger',    # Full name
+        'username': 'abby.barger',                # Instagram username
+        'birthday': '2004-04-04',                 # Birthday (YYYY-MM-DD)
+        'phone': '636-432-8287',                  # Phone number
+        'hometown': 'Ballwin, Missouri',          # City, State
+        'email': 'abarger04@gmail.com'            # Email address
     }
     
     print(f"🔍 Investigation Parameters:")

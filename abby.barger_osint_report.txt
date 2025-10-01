@@ -4,9 +4,13 @@ OSINT BACKGROUND INVESTIGATION REPORT
 
 SUBJECT INFORMATION:
 --------------------------------------------------------------------------------
-  Full Name: Abby Barger
+  Full Name: Abigail Lauren Barger
   Username: abby.barger
-  Investigation Date: 2025-10-01T03:08:24.391436
+  Birthday: 2004-04-04
+  Phone: 636-432-8287
+  Hometown: Ballwin, Missouri
+  Email: abarger04@gmail.com
+  Investigation Date: 2025-10-01T03:46:06.771769
 
 ================================================================================
 INVESTIGATION SUMMARY:
@@ -53,4 +57,4 @@ DISCLAIMER:
 This report contains publicly available information only.
 All data should be verified independently.
 Use only for authorized, legal purposes.
-Generated: 2025-10-01 03:09:52
+Generated: 2025-10-01 03:48:10

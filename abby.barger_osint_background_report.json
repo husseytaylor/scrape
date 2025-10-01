@@ -1,12 +1,12 @@
 {
   "subject_info": {
-    "full_name": "Abby Barger",
+    "full_name": "Abigail Lauren Barger",
     "username": "abby.barger",
-    "birthday": null,
-    "phone": null,
-    "hometown": null,
-    "email": null,
-    "investigation_date": "2025-10-01T03:08:24.391436"
+    "birthday": "2004-04-04",
+    "phone": "636-432-8287",
+    "hometown": "Ballwin, Missouri",
+    "email": "abarger04@gmail.com",
+    "investigation_date": "2025-10-01T03:46:06.771769"
   },
   "investigation_summary": {
     "total_platforms_checked": 10,
@@ -86,41 +86,151 @@
   },
   "search_results": {
     "name": {
-      "google_results": [],
+      "google_results": [
+        {
+          "title": "Student Lists | Mississippi State University",
+          "url": "https://www.msstate.edu/students/lists?list=1&semester=3&year=2023&state=MO",
+          "query": "\"Abigail Lauren Barger\""
+        },
+        {
+          "title": "President's List",
+          "url": "https://www.msstate.edu/students/lists?list=1&semester=3&year=2024&state=all",
+          "query": "\"Abigail Lauren Barger\""
+        },
+        {
+          "title": "Barger Family History",
+          "url": "https://sortedbyname.com/letter_b/barger/index_1.html",
+          "query": "\"Abigail Lauren Barger\""
+        },
+        {
+          "title": "Student Lists | Mississippi State University",
+          "url": "https://www.msstate.edu/students/lists?list=1&semester=3&year=2023&state=MO",
+          "query": "\"Abigail Lauren Barger\" Ballwin, Missouri"
+        },
+        {
+          "title": "President's List",
+          "url": "https://www.msstate.edu/students/lists?list=1&semester=3&year=2024&state=all",
+          "query": "\"Abigail Lauren Barger\" instagram"
+        },
+        {
+          "title": "Student Lists | Mississippi State University",
+          "url": "https://www.msstate.edu/students/lists?list=1&semester=3&year=2023&state=all",
+          "query": "\"Abigail Lauren Barger\" instagram"
+        }
+      ],
       "people_search_engines": {
         "whitepages": {
           "checked": true,
-          "url": "https://www.whitepages.com/name/Abby-Barger",
+          "url": "https://www.whitepages.com/name/Abigail-Lauren-Barger",
           "potential_results": true
         },
         "spokeo": {
           "checked": true,
-          "url": "https://www.spokeo.com/Abby-Barger",
-          "potential_results": true
+          "url": "https://www.spokeo.com/Abigail-Lauren-Barger",
+          "potential_results": false
         },
         "pipl": {
           "checked": true,
-          "url": "https://pipl.com/search/?q=Abby+Barger",
+          "url": "https://pipl.com/search/?q=Abigail+Lauren+Barger",
           "potential_results": true
         },
         "truepeoplesearch": {
           "checked": true,
-          "url": "https://www.truepeoplesearch.com/results?name=Abby%20Barger",
+          "url": "https://www.truepeoplesearch.com/results?name=Abigail%20Lauren%20Barger",
           "potential_results": true
         }
       },
       "social_mentions": []
+    },
+    "phone": {
+      "reverse_lookup": {
+        "truecaller_web": {
+          "checked": true,
+          "url": "https://www.truecaller.com/search/us/6364328287",
+          "page_loaded": true
+        },
+        "whitepages": {
+          "checked": true,
+          "url": "https://www.whitepages.com/phone/6364328287",
+          "page_loaded": true
+        },
+        "spy_dialer": {
+          "checked": true,
+          "url": "https://www.spydialer.com/default.aspx?phone=6364328287",
+          "page_loaded": true
+        }
+      },
+      "social_media": {
+        "facebook": {
+          "phone_associated": true
+        }
+      },
+      "carrier_info": {}
+    },
+    "email": {
+      "breach_check": {},
+      "social_media": {
+        "facebook": {
+          "email_associated": true
+        }
+      },
+      "professional": {},
+      "google_search": {
+        "results_found": 1,
+        "url": "https://www.google.com/search?q=\"abarger04@gmail.com\""
+      }
+    },
+    "location": {
+      "local_searches": [
+        {
+          "title": "abby🤍 (@abby.barger) • Instagram photos and videos",
+          "url": "https://www.instagram.com/abby.barger/?hl=en"
+        },
+        {
+          "title": "Student Lists | Mississippi State University",
+          "url": "https://www.msstate.edu/students/lists?list=1&semester=3&year=2023&state=MO"
+        },
+        {
+          "title": "President's List",
+          "url": "https://www.msstate.edu/students/lists?list=1&semester=3&year=2024&state=all"
+        },
+        {
+          "title": "20+ \"Abigail Barger\" profiles",
+          "url": "https://www.linkedin.com/pub/dir/Abigail/Barger"
+        },
+        {
+          "title": "Andrew Barger – Address, Phone Number, Email | NPD People ...",
+          "url": "https://nationalpublicdata.com/people/b/andrew-barger/"
+        },
+        {
+          "title": "Fall 2024 Dean's List",
+          "url": "https://semo.edu/news/2024/12/deans-list-fall-2024.html"
+        },
+        {
+          "title": "Fall 2024 President's, Dean's, & Honors Lists - Moberly",
+          "url": "https://www.macc.edu/fall-2024-presidents-deans-honors-lists/"
+        },
+        {
+          "title": "Spring 2025 Dean's List - Liberty",
+          "url": "https://www2.jewell.edu/deans-list-spring25"
+        },
+        {
+          "title": "Dean's List Students Named for UA Fall 2024 Term",
+          "url": "https://news.ua.edu/2025/01/deans-list-students-named-for-ua-fall-2024-term/"
+        }
+      ],
+      "address_databases": {}
     }
   },
   "people_search": {
     "whitepages": {
       "checked": true,
-      "url": "https://www.whitepages.com/name/Abby-Barger",
+      "url": "https://www.whitepages.com/name/Abigail-Lauren-Barger-Ballwin,-Missouri",
       "results_visible": true
     },
     "truepeoplesearch": {
       "checked": true,
-      "url": "https://www.truepeoplesearch.com/results?name=Abby%20Barger"
+      "url": "https://www.truepeoplesearch.com/results?name=Abigail%20Lauren%20Barger&citystatezip=Ballwin,%20Missouri"
     },
     "fastpeoplesearch": {},
     "fastbackgroundcheck": {}
